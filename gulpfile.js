@@ -22,3 +22,4 @@ function watchFiles() {
 exports.sass = compileSass;
 exports.watch = watchFiles;
 exports.default = gulp.series(compileSass, watchFiles);
+exports.build = compileSass;
