@@ -14,7 +14,6 @@ body {
     background-size: cover;
     @media screen and (max-width: 1024px) {
       background-size: unset;
-      background-position: 55% 30%;
     }
   }
   &.cloudy-day {

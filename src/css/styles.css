@@ -19,7 +19,6 @@ body.partly-cloudy-day {
 @media screen and (max-width: 1024px) {
   body.partly-cloudy-day {
     background-size: unset;
-    background-position: 55% 30%;
   }
 }
 body.cloudy-day {

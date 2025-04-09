@@ -272,5 +272,167 @@
         "slug": "cocentaina"
       }
     }
+  },
+  {
+    "name": "Murcia",
+    "slug": "murcia",
+    "poblaciones": {
+      "Abanilla": {
+        "name": "Abanilla",
+        "slug": "abanilla"
+      },
+      "Águilas": {
+        "name": "Águilas",
+        "slug": "aguilas"
+      },
+      "Abaran": {
+        "name": "Abarán",
+        "slug": "abaran"
+      },
+      "Alcantarilla": {
+        "name": "Alcantarilla",
+        "slug": "alcantarilla"
+      },
+      "Aledo": {
+        "name": "Aledo",
+        "slug": "aledo"
+      },
+      "Alguazas": {
+        "name": "Alguazas",
+        "slug": "alguazas"
+      },
+      "Alhama de Murcia": {
+        "name": "Alhama de Murcia",
+        "slug": "alhama-de-murcia"
+      },
+      "Archena": {
+        "name": "Archena",
+        "slug": "archena"
+      },
+      "Beniel": {
+        "name": "Beniel",
+        "slug": "beniel"
+      },
+      "Blanca": {
+        "name": "Blanca",
+        "slug": "blanca"
+      },
+      "Bullas": {
+        "name": "Bullas",
+        "slug": "bullas"
+      },
+      "Calasparra": {
+        "name": "Calasparra",
+        "slug": "calasparra"
+      },
+      "Campos del Río": {
+        "name": "Campos del Río",
+        "slug": "campos-del-rio"
+      },
+      "Cartagena": {
+        "name": "Cartagena",
+        "slug": "cartagena"
+      },
+      "Caravaca": {
+        "name": "Caravaca de la Cruz",
+        "slug": "caravaca-de-la-cruz"
+      },
+      "Cieza": {
+        "name": "Cieza",
+        "slug": "cieza"
+      },
+      "Ceuti": {
+        "name": "Ceutí",
+        "slug": "ceuti"
+      },
+      "Fortuna": {
+        "name": "Fortuna",
+        "slug": "fortuna"
+      },
+      "Fuente Álamo": {
+        "name": "Fuente Álamo",
+        "slug": "fuente-alamo"
+      },
+      "Jumilla": {
+        "name": "Jumilla",
+        "slug": "jumilla"
+      },
+      "Librilla": {
+        "name": "Librilla",
+        "slug": "librilla"
+      },
+      "Mazarrón": {
+        "name": "Mazarrón",
+        "slug": "mazarron"
+      },
+      "Lorca": {
+        "name": "Lorca",
+        "slug": "lorca"
+      },
+      "Lorquí": {
+        "name": "Lorquí",
+        "slug": "lorqui"
+      },
+      "Murcia": {
+        "name": "Murcia",
+        "slug": "murcia"
+      },
+      "Mula": {
+        "name": "Mula",
+        "slug": "mula"
+      },
+      "Moratalla": {
+        "name": "Moratalla",
+        "slug": "moratalla"
+      },
+      "Ojos": {
+        "name": "Ójos",
+        "slug": "los-ojos"
+      },
+      "Pliego": {
+        "name": "Pliego",
+        "slug": "pliego"
+      },
+      "Puerto Lumbreras": {
+        "name": "Puerto Lumbreras",
+        "slug": "puerto-lumbreras"
+      },
+      "San Javier": {
+        "name": "San Javier",
+        "slug": "san-javier"
+      },
+      "San Pedro del Pinatar": {
+        "name": "San Pedro del Pinatar",
+        "slug": "san-pedro-del-pinatar"
+      },
+      "Santomera": {
+        "name": "Santomera",
+        "slug": "santomera"
+      },
+      "Torre Pacheco": {
+        "name": "Torre Pacheco",
+        "slug": "torre-pacheco"
+      },
+      "Totana": {
+        "name": "Totana",
+        "slug": "totana"
+      },
+      "Ulea": {
+        "name": "Ulea",
+        "slug": "ulea"
+      },
+      "Villanueva del Río Segura": {
+        "name": "Villanueva del Río Segura",
+        "slug": "villanueva-del-rio-segura"
+      },
+      "Yecla": {
+        "name": "Yecla",
+        "slug": "yecla"
+      },
+      "Los Alcázares": {
+        "name": "Los Alcázares",
+        "slug": "los-alcazares"
+      }
+    }
   }
 ]
