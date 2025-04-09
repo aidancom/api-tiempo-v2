@@ -1,0 +1,276 @@
+[
+  {
+    "name": "Valencia",
+    "slug": "valencia",
+    "poblaciones": {
+      "Alcácer": {
+        "name": "Alcácer",
+        "slug": "alcacer"
+      },
+      "Alfafar": {
+        "name": "Alfafar",
+        "slug": "alfafar"
+      },
+      "Alzira": {
+        "name": "Alzira",
+        "slug": "alzira"
+      },
+      "Betera": {
+        "name": "Betera",
+        "slug": "betera"
+      },
+      "Moncada": {
+        "name": "Moncada",
+        "slug": "moncada"
+      },
+      "Mislata": {
+        "name": "Mislata",
+        "slug": "mislata"
+      },
+      "Burjassot": {
+        "name": "Burjassot",
+        "slug": "burjassot"
+      },
+      "Paterna": {
+        "name": "Paterna",
+        "slug": "paterna"
+      },
+      "Godella": {
+        "name": "Godella",
+        "slug": "godella"
+      },
+      "Torrent": {
+        "name": "Torrent",
+        "slug": "torrent"
+      },
+      "Xirivella": {
+        "name": "Xirivella",
+        "slug": "xirivella"
+      },
+      "Albuixech": {
+        "name": "Albuixech",
+        "slug": "albuixech"
+      },
+      "Albufera": {
+        "name": "Albufera",
+        "slug": "albufera"
+      },
+      "Alcúdia": {
+        "name": "Alcúdia",
+        "slug": "alcudia"
+      },
+      "Alfara": {
+        "name": "Alfara",
+        "slug": "alfara"
+      },
+      "Almàssera": {
+        "name": "Almàssera",
+        "slug": "almassera"
+      },
+      "Almoines": {
+        "name": "Almoines",
+        "slug": "almoines"
+      },
+      "Almussafes": {
+        "name": "Almussafes",
+        "slug": "almussafes"
+      },
+      "Cataroja": {
+        "name": "Catarroja",
+        "slug": "catarroja"
+      },
+      "Cerdà": {
+        "name": "Cerdà",
+        "slug": "cerda"
+      },
+      "Quart de Poblet": {
+        "name": "Quart de Poblet",
+        "slug": "quart-de-poblet"
+      },
+      "Riba-roja de Túria": {
+        "name": "Riba-roja de Túria",
+        "slug": "riba-roja-de-turia"
+      }
+    }
+  },
+  {
+    "name": "Castellón",
+    "slug": "castellon",
+    "poblaciones": {
+      "Vall d'Uixó": {
+        "name": "Vall d'Uixó",
+        "slug": "vall-duixo"
+      },
+      "Almazora": {
+        "name": "Almazora",
+        "slug": "almazora"
+      },
+      "Benicàssim": {
+        "name": "Benicàssim",
+        "slug": "benicassim"
+      },
+      "Borriana": {
+        "name": "Borriana",
+        "slug": "borriana"
+      },
+      "Peñíscola": {
+        "name": "Peñíscola",
+        "slug": "peniscola"
+      },
+      "Onda": {
+        "name": "Onda",
+        "slug": "onda"
+      },
+      "Alcora": {
+        "name": "Alcora",
+        "slug": "alcora"
+      },
+      "Benicarló": {
+        "name": "Benicarló",
+        "slug": "benicarlo"
+      },
+      "Castellón de la Plana": {
+        "name": "Castellón de la Plana",
+        "slug": "castellon-de-la-plana"
+      },
+      "La Vilavella": {
+        "name": "La Vilavella",
+        "slug": "la-vilavella"
+      },
+      "Nules": {
+        "name": "Nules",
+        "slug": "nules"
+      },
+      "Almassora": {
+        "name": "Almassora",
+        "slug": "almassora"
+      },
+      "Borriol": {
+        "name": "Borriol",
+        "slug": "borriol"
+      },
+      "Cabanes": {
+        "name": "Cabanes",
+        "slug": "cabanes"
+      },
+      "Chilches": {
+        "name": "Chilches",
+        "slug": "chilches"
+      },
+      "San Mateo": {
+        "name": "San Mateo",
+        "slug": "sant-mateo"
+      },
+      "Moncofa": {
+        "name": "Moncofa",
+        "slug": "moncofa"
+      },
+      "Almenara": {
+        "name": "Almenara",
+        "slug": "almenara"
+      }
+    }
+  },
+  {
+    "name": "Alicante",
+    "slug": "alicante",
+    "poblaciones": {
+      "Elche": {
+        "name": "Elche",
+        "slug": "elche"
+      },
+      "Benidorm": {
+        "name": "Benidorm",
+        "slug": "benidorm"
+      },
+      "Torrevieja": {
+        "name": "Torrevieja",
+        "slug": "torrevieja"
+      },
+      "Orihuela": {
+        "name": "Orihuela",
+        "slug": "orihuela"
+      },
+      "Alcoy": {
+        "name": "Alcoy",
+        "slug": "alcoy"
+      },
+      "Elda": {
+        "name": "Elda",
+        "slug": "elda"
+      },
+      "San Vicente del Raspeig": {
+        "name": "San Vicente del Raspeig",
+        "slug": "san-vicente-del-raspeig"
+      },
+      "Petrer": {
+        "name": "Petrer",
+        "slug": "petrer"
+      },
+      "San Juan de Alicante": {
+        "name": "San Juan de Alicante",
+        "slug": "san-juan-de-alicante"
+      },
+      "Javea": {
+        "name": "Javea",
+        "slug": "javea"
+      },
+      "Denia": {
+        "name": "Denia",
+        "slug": "denia"
+      },
+      "Villajoyosa": {
+        "name": "Villajoyosa",
+        "slug": "villajoyosa"
+      },
+      "Altea": {
+        "name": "Altea",
+        "slug": "altea"
+      },
+      "El Campello": {
+        "name": "El Campello",
+        "slug": "el-campello"
+      },
+      "La Nucia": {
+        "name": "La Nucia",
+        "slug": "la-nucia"
+      },
+      "Benissa": {
+        "name": "Benissa",
+        "slug": "benissa"
+      },
+      "Calpe": {
+        "name": "Calpe",
+        "slug": "calpe"
+      },
+      "Alfaz del Pi": {
+        "name": "Alfaz del Pi",
+        "slug": "alfaz-del-pi"
+      },
+      "Finestrat": {
+        "name": "Finestrat",
+        "slug": "finestrat"
+      },
+      "La Vila Joiosa": {
+        "name": "La Vila Joiosa",
+        "slug": "la-vila-joiosa"
+      },
+      "Ibi": {
+        "name": "Ibi",
+        "slug": "ibi"
+      },
+      "Banyeres de Mariola": {
+        "name": "Banyeres de Mariola",
+        "slug": "banyeres-de-mariola"
+      },
+      "Castalla": {
+        "name": "Castalla",
+        "slug": "castalla"
+      },
+      "Cocentaina": {
+        "name": "Cocentaina",
+        "slug": "cocentaina"
+      }
+    }
+  }
+]

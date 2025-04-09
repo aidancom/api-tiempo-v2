@@ -1,0 +1,164 @@
+body {
+  max-width: 1045px;
+  margin: 0 auto;
+  background: url("../assets/img/background.jpg") no-repeat;
+  background-size: cover;
+  font-family: "Poppins", sans-serif;
+}
+body.partly-cloudy-day {
+  transition: 1s ease;
+  background: url("../assets/img/background-partly-cloudy-day.jpg") no-repeat;
+  background-size: cover;
+}
+body.cloudy-day {
+  transition: 1s ease;
+  background: url("../assets/img/background-cloudy-day.jpg") no-repeat;
+  background-size: cover;
+}
+body.clear-day {
+  transition: 1s ease;
+  background: url("../assets/img/background-clear-day.jpg") no-repeat;
+  background-size: cover;
+}
+body.rain {
+  transition: 1s ease;
+  background: url("../assets/img/background-rain-day.jpg") no-repeat;
+  background-size: cover;
+}
+body h1,
+body p {
+  text-align: center;
+}
+body .opacity {
+  background-color: rgba(179, 240, 255, 0.65);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+  justify-content: center;
+  align-items: center;
+}
+body .opacity .modal {
+  background: #ffffff;
+  width: 400px;
+  border-radius: 20px;
+  padding: 20px;
+  position: relative;
+}
+body .opacity .modal-icon {
+  position: absolute;
+  right: 15px;
+  top: 10px;
+}
+body .opacity .modal-icon .fa-solid.fa-xmark {
+  font-size: 25px;
+  cursor: pointer;
+}
+body .opacity .modal-content h2 {
+  margin: 15px 0px 0px 0px;
+  font-size: 17px;
+  line-height: 1.5;
+  padding-bottom: 10px;
+}
+body .opacity .modal-content p {
+  text-align: left;
+  font-size: 15px;
+}
+body .container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+body .container-search, body .container-data {
+  border-radius: 10px;
+  border: 1px solid #CFE0E7;
+  background-color: #fff;
+  padding: 20px;
+  width: 50%;
+  margin-bottom: 20px;
+}
+body .container-search-selects, body .container-data-selects {
+  display: flex;
+  flex-direction: column;
+}
+body .container-search-selects-provis, body .container-search-selects-city, body .container-data-selects-provis, body .container-data-selects-city {
+  margin-bottom: 10px;
+  border-radius: 5px;
+  padding: 3px;
+  border-color: #97E1E9;
+}
+body .container-search-selects select, body .container-data-selects select {
+  margin-top: 5px;
+}
+body .container-search-button, body .container-data-button {
+  display: flex;
+  justify-content: flex-end;
+}
+body .container-search-button button, body .container-data-button button {
+  background-color: #5fbbe1;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+body .container-search-button button:hover, body .container-data-button button:hover {
+  background-color: #CFE0E7;
+  color: #222;
+}
+body .container-data-time span {
+  text-align: center;
+  display: block;
+  margin-bottom: 25px;
+}
+body .container-data-time-information-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body .container-data-time-information-icon-information {
+  padding-left: 10px;
+}
+body .container-data-time-information-icon-information p {
+  text-align: left;
+}
+body .container-data-time-information-icon-information-other, body .container-data-time-information-icon-information-temp {
+  margin: 0 0;
+}
+body .container-data-time-information-icon-information-temp {
+  font-size: 25px;
+  font-weight: bold;
+}
+body .container-data-time-information-icon-information-other {
+  padding-top: 5px;
+  font-size: 18px;
+}
+body .container-data-time-information-icon-information button {
+  background-color: #5fbbe1;
+  color: white;
+  border: none;
+  padding: 5px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s ease;
+  margin-top: 5px;
+}
+body .container-data-time-information-icon-information button:hover {
+  background-color: #CFE0E7;
+  color: #222;
+}
+body .container-data-time-information-icon-icon {
+  padding-right: 10px;
+}
+body .container-data-time-information-icon-icon img {
+  width: 65px;
+}
+body .container-data-time-information-icon-bar {
+  border: 1px solid #E9F1F4;
+  height: 80px;
+  margin: 0 10px;
+}
