@@ -4,25 +4,45 @@ body {
   background: url("../assets/img/background.jpg") no-repeat;
   background-size: cover;
   font-family: 'Poppins', sans-serif;
+  @media screen and (max-width: 1024px) {
+    background-size: unset;
+    background-position: 55% 30%;
+  }
   &.partly-cloudy-day {
     transition: 1s ease;
     background: url("../assets/img/background-partly-cloudy-day.jpg") no-repeat;
     background-size: cover;
+    @media screen and (max-width: 1024px) {
+      background-size: unset;
+      background-position: 55% 30%;
+    }
   }
   &.cloudy-day {
     transition: 1s ease;
     background: url("../assets/img/background-cloudy-day.jpg") no-repeat;
     background-size: cover;
+    @media screen and (max-width: 1024px) {
+      background-size: unset;
+      background-position: 55% 30%;
+    }
   }
   &.clear-day {
     transition: 1s ease;
     background: url("../assets/img/background-clear-day.jpg") no-repeat;
     background-size: cover;
+    @media screen and (max-width: 1024px) {
+      background-size: unset;
+      background-position: 55% 30%;
+    }
   }
   &.rain {
     transition: 1s ease;
     background: url("../assets/img/background-rain-day.jpg") no-repeat;
     background-size: cover;
+    @media screen and (max-width: 1024px) {
+      background-size: unset;
+      background-position: 55% 30%;
+    }
   }
   h1,
   p {

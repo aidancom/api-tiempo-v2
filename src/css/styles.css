@@ -5,25 +5,55 @@ body {
   background-size: cover;
   font-family: "Poppins", sans-serif;
 }
+@media screen and (max-width: 1024px) {
+  body {
+    background-size: unset;
+    background-position: 55% 30%;
+  }
+}
 body.partly-cloudy-day {
   transition: 1s ease;
   background: url("../assets/img/background-partly-cloudy-day.jpg") no-repeat;
   background-size: cover;
+}
+@media screen and (max-width: 1024px) {
+  body.partly-cloudy-day {
+    background-size: unset;
+    background-position: 55% 30%;
+  }
 }
 body.cloudy-day {
   transition: 1s ease;
   background: url("../assets/img/background-cloudy-day.jpg") no-repeat;
   background-size: cover;
 }
+@media screen and (max-width: 1024px) {
+  body.cloudy-day {
+    background-size: unset;
+    background-position: 55% 30%;
+  }
+}
 body.clear-day {
   transition: 1s ease;
   background: url("../assets/img/background-clear-day.jpg") no-repeat;
   background-size: cover;
 }
+@media screen and (max-width: 1024px) {
+  body.clear-day {
+    background-size: unset;
+    background-position: 55% 30%;
+  }
+}
 body.rain {
   transition: 1s ease;
   background: url("../assets/img/background-rain-day.jpg") no-repeat;
   background-size: cover;
+}
+@media screen and (max-width: 1024px) {
+  body.rain {
+    background-size: unset;
+    background-position: 55% 30%;
+  }
 }
 body h1,
 body p {
