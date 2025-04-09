@@ -1,4 +1,4 @@
-import { modalInformation } from '../js/modal.js';
+import {modalInformation} from './modal.js';
 
 window.addEventListener('DOMContentLoaded', async function () {
 
@@ -10,10 +10,10 @@ window.addEventListener('DOMContentLoaded', async function () {
   const weekday = ["Domingo", "Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sábado"];
 
   const icons = {
-    "rain": "../src/assets/img/raining.png",
-    "clear-day": "../src/assets/img/sun.png",
-    "cloudy": "../src/assets/img/cloudy.png",
-    "partly-cloudy-day": "../src/assets/img/cloudy-day.png"
+    "rain": "assets/img/raining.png",
+    "clear-day": "assets/img/sun.png",
+    "cloudy": "assets/img/cloudy.png",
+    "partly-cloudy-day": "assets/img/cloudy-day.png"
   };
 
   function meteo(data, selectedCityLabel) {
@@ -52,7 +52,7 @@ window.addEventListener('DOMContentLoaded', async function () {
 
   const provinces = async () => {
     try {
-      const response = await fetch('../src/files/provincias.json');
+      const response = await fetch('files/provincias.json');
       if (response.ok) {
         const data = await response.json();
         return data
