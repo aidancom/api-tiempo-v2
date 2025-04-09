@@ -4,6 +4,7 @@ body {
   background: url("../assets/img/background.jpg") no-repeat;
   background-size: cover;
   font-family: "Poppins", sans-serif;
+  overflow: hidden;
 }
 @media screen and (max-width: 1024px) {
   body {
@@ -18,7 +19,7 @@ body.partly-cloudy-day {
 }
 @media screen and (max-width: 1024px) {
   body.partly-cloudy-day {
-    background-size: unset;
+    height: 900px;
   }
 }
 body.cloudy-day {
@@ -30,6 +31,7 @@ body.cloudy-day {
   body.cloudy-day {
     background-size: unset;
     background-position: 55% 30%;
+    height: 900px;
   }
 }
 body.clear-day {
@@ -40,7 +42,7 @@ body.clear-day {
 @media screen and (max-width: 1024px) {
   body.clear-day {
     background-size: unset;
-    background-position: 55% 30%;
+    background-position: 68% 45%;
   }
 }
 body.rain {
